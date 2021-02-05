@@ -42,10 +42,4 @@ Hi, I'm [Lucas Finoti!](https://www.linkedin.com/in/lucas-finoti/), an engineer 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finotilucas&show_icons=true&theme=gotham" alt="finotilucas" /></p>
 
 
-🖥️ My Most Used Languages
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finotilucas&layout=compact&theme=gotham" alt="finotilucas" /></p>
-
-
-
 
