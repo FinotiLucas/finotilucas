@@ -35,6 +35,11 @@ Hi, I'm [Lucas Finoti!](https://www.linkedin.com/in/lucas-finoti/), an engineer 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+<p align="center">
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=grow_out_in&layout=zues)
+</p>
+
+
 📈 My GitHub Stats
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finotilucas&show_icons=true&theme=gotham" alt="finotilucas" /></p>
