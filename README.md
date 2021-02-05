@@ -14,8 +14,6 @@
 
 Hi, I'm [Lucas Finoti!](https://www.linkedin.com/in/lucas-finoti/), an engineer who loves programming and is a self-taught web and mobile developer, currently working in the Financial Market . 🚀
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -35,11 +33,6 @@ Hi, I'm [Lucas Finoti!](https://www.linkedin.com/in/lucas-finoti/), an engineer 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
-<br />
-
-📚 A Random Quote for you !
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=grow_out_in&layout=zues)
 
 
 📈 My GitHub Stats
