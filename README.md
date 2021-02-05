@@ -14,13 +14,15 @@
 
 Hi, I'm [Lucas Finoti!](https://www.linkedin.com/in/lucas-finoti/), an engineer who loves programming and is a self-taught web and mobile developer, currently working in the Financial Market . 🚀
 
-  
+<br />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Typescript and NuxtJS for my undergraduate thesis; 
 - 💬 Ask me about anything, I am happy to help;
 
+<br />
 **Languages and Tools:**  
 
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
