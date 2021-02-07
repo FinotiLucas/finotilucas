@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/lucas-finoti/">
-  <img align="left" alt="Lucas's LinkedIN" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612541383~hmac=560c1443e4e951c3ef977ebd13166cbd" />
+  <img align="left" alt="Lucas's LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 
 
